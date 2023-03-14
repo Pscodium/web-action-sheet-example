@@ -179,7 +179,7 @@ class App extends React.Component<Props, State> {
                 <ScrollView style={styles.flex} contentContainerStyle={styles.contentContainer}>
                     <Text style={styles.headerText}>
                         {
-                            'Olá!\n\nEste é um exemplo da bibliotéca @expo/react-native-action-sheet.'
+                            'Olá!\n\nEste é um exemplo da biblioteca @expo/react-native-action-sheet.'
                         }
                     </Text>
                     {this._renderButtons()}
